@@ -1,4 +1,4 @@
-# OTEL Collector Dev Stand
+# OpenTelemetry Dev Stand
 A simple Docker Compose setup that launches pre-configured and integrated services, allowing fully testing interactions with OpenTelemetry:
 - OTEL Collector
 - Jaeger
